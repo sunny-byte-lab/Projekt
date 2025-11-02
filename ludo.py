@@ -1,6 +1,7 @@
 import random
 import time
 
+print("DONT PLAY THIS GAME =------error rrorrrorror")
 # --- Game Configuration ---
 PLAYER_COLORS = ['Red', 'Green', 'Yellow', 'Blue']
 # Absolute board positions for each player's start
