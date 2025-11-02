@@ -1,6 +1,7 @@
 import random
 import time
 
+print("NEW GAME - PLEASE PLAY LUDO")
 # --- Game Configuration ---
 PLAYER_COLORS = ['Red', 'Green', 'Yellow', 'Blue']
 # Absolute board positions for each player's start
