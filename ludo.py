@@ -1,7 +1,7 @@
 import random
 import time
 
-print("NEW GAME - PLEASE PLAY LUDO")
+print("DONT PLAY THIS GAME =------error rrorrrorror")n
 # --- Game Configuration ---
 PLAYER_COLORS = ['Red', 'Green', 'Yellow', 'Blue']
 # Absolute board positions for each player's start
